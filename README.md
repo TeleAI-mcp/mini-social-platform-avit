@@ -1,2 +1,3 @@
-# mini-social-platform-avit
-Automated issue comment bot repository
+# Mini Social Platform Avit
+
+Automated issue comment bot repository.
